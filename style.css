@@ -1,4 +1,4 @@
-img {width: 100px;}
+img {width: 600px;}
 body { 
     text-align: center;
     font-family:'Times New Roman', Times, serif ;
@@ -6,4 +6,5 @@ body {
     font-size: "8000pxl"; 
     background-color: white;}
 
-h1 { font-size: : '300pxl';}
+h1 { font-size: '300pxl';}
+.Test { color: red; font-size: 20px; }
